@@ -63,7 +63,7 @@ function Register() {
   return (
     <div className="formContainer">
       <div className="formWrapper">
-        <span className="logo">sharma chat</span>
+        <span className="logo">Saurav sharma chat</span>
         <span className="title">Register</span>
         <form>
           <input type="text" placeholder="Fullname" />
